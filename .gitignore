@@ -119,3 +119,5 @@ dkms.conf
 !*.*
 
 *.o
+/.vscode
+tasks.json
