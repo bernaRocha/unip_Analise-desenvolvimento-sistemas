@@ -10,7 +10,7 @@ int main(){
         y -= 1;
     }
     
-    printf("TOTAL: %d", soma);
+    printf("TOTAL: %d\n", soma);
     return 0;
 
 }
