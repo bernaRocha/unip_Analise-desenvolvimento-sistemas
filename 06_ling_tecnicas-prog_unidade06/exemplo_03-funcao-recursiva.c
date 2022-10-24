@@ -11,5 +11,4 @@ int multiplica(int x, int y) {
 void main() {
     printf("\n %d X %d = %d", 2, 5, multiplica(2, 5));
     printf("\n\n");
-    return 0;
 }
