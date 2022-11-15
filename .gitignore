@@ -121,3 +121,7 @@ dkms.conf
 *.o
 /.vscode
 tasks.json
+
+### Feito por mim
+
+*.jpg
