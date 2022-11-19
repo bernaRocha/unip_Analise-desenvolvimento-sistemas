@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Lista encadeada
+// Lista encadeada || inserção, busca e remoção
 struct st_no {
     int valor;
     struct st_no *prox;
